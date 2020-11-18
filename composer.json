@@ -1,0 +1,8 @@
+{
+    "name": "brambaud/rector-prefixed-conflict-phpstan-issue-4606",
+    "type": "project",
+    "require": {
+        "phpstan/phpstan": "^0.12.56",
+        "rector/rector-prefixed": "^0.8.52"
+    }
+}
